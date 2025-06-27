@@ -32,3 +32,6 @@ Unity plugin framework
 - [essu](https://github.com/exdownloader) - Project logo, moral support and lots of misc. help
 - [denikson](https://github.com/denikson) - [UnityDoorstop](https://github.com/NeighTools/UnityDoorstop) for the patchless loader
 - [nn@](https://twitter.com/NnAone2cmg) - Japanese translation of the wiki
+
+### Modified by [RamuneNeptune](https://github.com/RamuneNeptune)
+- Changes mod loading text to be green so it is easier to parse the console window with your eyes
