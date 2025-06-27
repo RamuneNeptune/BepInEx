@@ -424,7 +424,7 @@ namespace BepInEx.Bootstrap
 
 					try
 					{
-						Logger.LogInfo($"\x1b[32mLoading [{pluginInfo}]\x1b[0m");
+						Logger.LogInfo($"Loading \x1b[32m[{pluginInfo}]\x1b[0m");
 
 						if (!loadedAssemblies.TryGetValue(pluginInfo.Location, out var ass))
 							loadedAssemblies[pluginInfo.Location] = ass = Assembly.LoadFile(pluginInfo.Location);
